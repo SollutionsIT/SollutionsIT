@@ -9,9 +9,9 @@ During that time I have used a broad set of tools in real projects and I continu
 ### Profiles
 
 <a href="#qa"><img src="https://img.shields.io/badge/QA%20Automation%20%26%20Testing-5%20years-2EAD33?style=for-the-badge" /></a>
-<a href="#mobile"><img src="https://img.shields.io/badge/Mobile%20Testing-1%20year-3DDC84?style=for-the-badge" /></a>
+<a href="#mobile"><img src="https://img.shields.io/badge/Mobile%20Testing-5%20year-3DDC84?style=for-the-badge" /></a>
 <a href="#security"><img src="https://img.shields.io/badge/Cybersecurity%20%26%20Networks-4%20years-FF6633?style=for-the-badge" /></a>
-<a href="#ai"><img src="https://img.shields.io/badge/AI%20Engineering-1%20year-412991?style=for-the-badge" /></a>
+<a href="#ai"><img src="https://img.shields.io/badge/AI%20Engineering-5%20year-412991?style=for-the-badge" /></a>
 <a href="#devops"><img src="https://img.shields.io/badge/DevOps-closely%20related%20experience-2496ED?style=for-the-badge" /></a>
 
 ---
@@ -188,7 +188,7 @@ Hands-on applied AI engineering for **QA automation, security analysis, technica
 ---
 
 <a id="devops"></a>
-## DevOps - closely related hands-on experience
+## DevOps - closely related hands-on experience (3 years)
 
 I have not held a dedicated full-time **DevOps Engineer** title, but DevOps work has been a regular part of my QA Automation, Security Operations and infrastructure background. I also worked with DevOps-related responsibilities in **NDA projects that are not published publicly**.
 
