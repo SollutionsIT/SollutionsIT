@@ -9,10 +9,10 @@ During that time I have used a broad set of tools in real projects and I continu
 ### Profiles
 
 <a href="#qa"><img src="https://img.shields.io/badge/QA%20Automation%20%26%20Testing-5%20years-2EAD33?style=for-the-badge" /></a>
-<a href="#mobile"><img src="https://img.shields.io/badge/Mobile%20Testing-5%20year-3DDC84?style=for-the-badge" /></a>
+<a href="#mobile"><img src="https://img.shields.io/badge/Mobile%20Testing-5%20years-3DDC84?style=for-the-badge" /></a>
 <a href="#security"><img src="https://img.shields.io/badge/Cybersecurity%20%26%20Networks-4%20years-FF6633?style=for-the-badge" /></a>
-<a href="#ai"><img src="https://img.shields.io/badge/AI%20Engineering-5%20year-412991?style=for-the-badge" /></a>
-<a href="#devops"><img src="https://img.shields.io/badge/DevOps-closely%20related%20experience-3%20year2496ED?style=for-the-badge" /></a>
+<a href="#ai"><img src="https://img.shields.io/badge/AI%20Engineering-5%20years-412991?style=for-the-badge" /></a>
+<a href="#devops"><img src="https://img.shields.io/badge/DevOps-closely%20related%20experience-3%20years2496ED?style=for-the-badge" /></a>
 
 ---
 
